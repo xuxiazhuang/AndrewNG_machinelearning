@@ -20,6 +20,18 @@ Lec9 : Costfunction Backpropagation
 
 Lec10 : Bias & Variance & learning curve
 
+Lec11 : Error Analysis & precision & Recall
+
+Lec12 : Support Vector Machine
+
+Lec14 : Dimension Reduction PCA
+
+Lec15 : Anomaly Detection & Gaussion Distribution
+
+Lec16 : Recommender System
+
+Lec17 : Stochastic & Mini batch gradient descent for large datasets
+
 
 
 

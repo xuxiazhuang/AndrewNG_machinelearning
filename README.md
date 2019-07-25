@@ -1,4 +1,4 @@
-# Machine Learning__Andrew NG
+# Machine Learning  Andrew NG
 
 Machine Learning Notes from course Machine Learning (Standford University) by Andrew Ng
 
